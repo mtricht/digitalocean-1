@@ -1,4 +1,4 @@
-module github.com/mtricht/digitalocean-1
+module github.com/mtricht/digitalocean-caddy-dns
 
 go 1.14
 
