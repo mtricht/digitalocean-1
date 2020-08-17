@@ -1,8 +1,9 @@
-module github.com/caddy-dns/digitalocean
+module github.com/mtricht/digitalocean-1
 
 go 1.14
 
 require (
+	github.com/caddy-dns/digitalocean v0.0.0-20200812022349-a29984a7ff09 // indirect
 	github.com/caddyserver/caddy/v2 v2.0.0-rc.3.0.20200501001739-1fa8c185a893
 	github.com/digitalocean/godo v1.42.1 // indirect
 	github.com/golang/protobuf v1.4.2 // indirect

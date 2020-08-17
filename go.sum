@@ -105,6 +105,8 @@ github.com/bombsimon/wsl/v2 v2.0.0/go.mod h1:mf25kr/SqFEPhhcxW1+7pxzGlW+hIl/hYTK
 github.com/boombuler/barcode v1.0.0/go.mod h1:paBWMcWSl3LHKBqUq+rly7CNSldXjb2rDl3JlRe0mD8=
 github.com/bradfitz/go-smtpd v0.0.0-20170404230938-deb6d6237625/go.mod h1:HYsPBTaaSFSlLx/70C2HPIMNZpVV8+vt/A+FMnYP11g=
 github.com/buger/jsonparser v0.0.0-20181115193947-bf1c66bbce23/go.mod h1:bbYlZJ7hK1yFx9hf58LP0zeX7UjIGs20ufpu3evjr+s=
+github.com/caddy-dns/digitalocean v0.0.0-20200812022349-a29984a7ff09 h1:6NR83IcTfCVDroFTWPjnOqIrmnZ2KG7ETWuImlG8I/w=
+github.com/caddy-dns/digitalocean v0.0.0-20200812022349-a29984a7ff09/go.mod h1:wk54P1aF/uPDl3aQojq9uNhCSsCVf6LPDPFO3IXKO0U=
 github.com/caddyserver/caddy/v2 v2.0.0-rc.3.0.20200501001739-1fa8c185a893 h1:RPEwe/VbSxeoGapRhHm97hcU7MOtp21mTx1rPoHy1B0=
 github.com/caddyserver/caddy/v2 v2.0.0-rc.3.0.20200501001739-1fa8c185a893/go.mod h1:ojHlufrUmBN3ht+nkxd8S/UqO4xnR5npw7LjoaQ1WkY=
 github.com/caddyserver/certmagic v0.10.12 h1:aZtgzcIssiMSlP0jDdpDBbBzQ5INf5eKL9T6Nf3YzKM=
@@ -381,6 +383,7 @@ github.com/labbsr0x/goh v1.0.1/go.mod h1:8K2UhVoaWXcCU7Lxoa2omWnC8gyW8px7/lmO61c
 github.com/letsencrypt/pkcs11key v2.0.1-0.20170608213348-396559074696+incompatible/go.mod h1:iGYXKqDXt0cpBthCHdr9ZdsQwyGlYFh/+8xa4WzIQ34=
 github.com/lib/pq v1.1.1/go.mod h1:5WUZQaWbwv1U+lTReE5YruASi9Al49XbQIvNi/34Woo=
 github.com/lib/pq v1.2.0/go.mod h1:5WUZQaWbwv1U+lTReE5YruASi9Al49XbQIvNi/34Woo=
+github.com/libdns/digitalocean v0.0.0-20200721121354-84d3ee719f32/go.mod h1:GEZlJR69sPAUWjb77eLyeDczZNL+ezbo5UGIY2/xZXA=
 github.com/libdns/digitalocean v0.0.0-20200817185712-f11d70f2506c h1:rYmLkDpRXGZjX+wfWTUbEqWSZEzqvQs6hrQkt85bQ04=
 github.com/libdns/digitalocean v0.0.0-20200817185712-f11d70f2506c/go.mod h1:GEZlJR69sPAUWjb77eLyeDczZNL+ezbo5UGIY2/xZXA=
 github.com/libdns/libdns v0.0.0-20200501023120-186724ffc821 h1:663opx/RKxiISi1ozf0WbvweQpYBgf34dx8hKSIau3w=
